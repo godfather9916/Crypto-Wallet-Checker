@@ -36,7 +36,7 @@ Coinomi
 Keystrokes
 Phantom
 Atomic
-Trust
+Trust and more
 
 >
 >CONTACT HERE: **TELEGRAM: https://t.me/rashtug0**
