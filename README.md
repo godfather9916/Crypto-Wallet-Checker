@@ -2,7 +2,7 @@
 Crypto Wallet Checker + Seed Phrase Parser
 
 
-Stop uploading your material to obscure bots or closed source software. If you do not want to share your profit - your choice is open source, which also works even without Internet access!
+Stop uploading your material to obfuscated bots or closed source software. If you do not want to share your profit - your choice is open source, which also works even without Internet access!
 
 
 **Smart password sorter** - will get the maximum passwords from all files for each log, clean up garbage
