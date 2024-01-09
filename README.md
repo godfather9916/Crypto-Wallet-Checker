@@ -1,5 +1,5 @@
 # Crypto-Wallet-Checker
-Crypto Wallet Checker + Seed Phrase Parser
+Best Crypto Wallet Checker + Seed Phrase Parser
 
 
 Stop uploading your material to obfuscated bots or closed source software. If you do not want to share your profit - your choice is open source, which also works even without Internet access!
