@@ -1,6 +1,8 @@
 # Crypto-Wallet-Checker
 Best Crypto Wallet Checker + Seed Phrase Parser
 
+Decryptor cold wallets data, from extension Metamask, Ronin, Phantom, Binance, Brawe,  etc.
+best decrypter via python, so fast work.
 
 Stop uploading your material to obfuscated bots/exe software or closed source software. If you do not want to share your profit - your choice is open source, which also works even without Internet access!
 
