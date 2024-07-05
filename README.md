@@ -1,7 +1,7 @@
 # Crypto-Wallet-Checker
 
 
-Crypto-Wallet-Checker
+**Crypto-Wallet-Checker**
 
 Best Crypto Wallet Checker + Seed Phrase Parsers
 
