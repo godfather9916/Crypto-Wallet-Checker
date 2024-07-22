@@ -21,7 +21,7 @@ Seed Phrase Search - in text files txt, docx, html
 
     SUPPORTED WALLET Web Wallets (Metamask, Ronin, Exodus, Binance Chain, and many others) via .log or .ldb Core Wallets (Bitcoin Core, Litecoin Core, Dogecoin Core) Exodus Electrum (All versions) Multibit (All versions) Blockchain (All versions) Coinomi Keystrokes Phantom Atomic Trust and more
 
-halla me now
+hit me up, not free
 
 
 **Contact: [@rashtug0](https://t.me/rashtug0)**
