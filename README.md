@@ -3,7 +3,7 @@
 
 **Crypto-Wallet-Checker**
 
-Best Crypto Wallet Checkers + Seed Phrase Parsers
+Best Crypto Wallet Checkers + Seed Phrase Parser
 
 Show balance thru debank
 
